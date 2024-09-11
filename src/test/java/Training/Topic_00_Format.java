@@ -1,15 +1,22 @@
 package Training;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
+
+
 public class Topic_00_Format {
     WebDriver driver;
     String projectPath = System.getProperty("user.dir");
+    WebDriverWait explicitWait;
+    JavascriptExecutor javascriptExecutor;
+
     @BeforeClass
     public void beforeClass() {
         System.setProperty("webdriver.chrome.driver", projectPath + "\\browserDrivers\\chromedriver.exe");
@@ -27,14 +34,10 @@ public class Topic_00_Format {
     @Test
     public void Testcase_01(){
         // Ham nay dung de truyen url muon truy cap
-        driver.get("https://demo.nopcommerce.com/");
+        driver.get("nhap url muon mo tai day");
 
-        // Hàm này dùng để input data vào element
-        //driver.findElement(By.xpath("")).sendKeys("");
-
-        // Hàm này dùng để click
-        //driver.findElement(By.xpath("")).click("");
-
+        // Ham nay dung de tim kiem locator cua element
+        driver.findElement(By.xpath(""));
     }
 
 }
