@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02784077-6c7d-4bd3-9c44-f6cfa265953c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browserDrivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/browserDrivers/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Training/Topic_00_Format.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Training/Topic_00_Format.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -195,7 +194,7 @@
       <workItem from="1720001545328" duration="1746000" />
       <workItem from="1721112446283" duration="2000" />
       <workItem from="1721112599550" duration="1682000" />
-      <workItem from="1726039657200" duration="178000" />
+      <workItem from="1726039657200" duration="597000" />
     </task>
     <servers />
   </component>

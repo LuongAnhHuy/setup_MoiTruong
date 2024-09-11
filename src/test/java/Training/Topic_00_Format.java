@@ -14,8 +14,6 @@ import org.testng.annotations.Test;
 public class Topic_00_Format {
     WebDriver driver;
     String projectPath = System.getProperty("user.dir");
-    WebDriverWait explicitWait;
-    JavascriptExecutor javascriptExecutor;
 
     @BeforeClass
     public void beforeClass() {
