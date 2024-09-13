@@ -30,10 +30,11 @@ public class Topic_00_Format {
     @Test
     public void Testcase_01(){
         // Ham nay dung de truyen url muon truy cap
-        driver.get("nhap url muon mo tai day");
+        driver.get("https://alada.vn/tai-khoan/dang-ky.html");
 
         // Ham nay dung de tim kiem locator cua element
-        driver.findElement(By.xpath(""));
+        String abc = driver.findElement(By.xpath("//div[@class='field_link']")).getText();
+        System.out.println("text là: " + abc);
     }
 
 }
