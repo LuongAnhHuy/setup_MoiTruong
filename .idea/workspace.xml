@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02784077-6c7d-4bd3-9c44-f6cfa265953c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/commons/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browserDrivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/browserDrivers/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Training/Topic_00_Format.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Training/Topic_00_Format.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,35 +47,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.Topic_00_Format (1).executor": "Run",
-    "TestNG.Topic_00_Format (2).executor": "Run",
-    "TestNG.Topic_00_Format (3).executor": "Run",
-    "TestNG.Topic_00_Format.Testcase_01.executor": "Run",
-    "TestNG.Topic_00_Format.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Project/Automation/SetUp_MoiTruong",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "E:/Project/Automation/SetUp_MoiTruong/src/main/java/Framework/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.Topic_00_Format (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Topic_00_Format (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Topic_00_Format (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Topic_00_Format.Testcase_01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Topic_00_Format.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Project/Automation/SetUp_MoiTruong&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Project/Automation/SetUp_MoiTruong/src/main/java/Framework/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Project\Automation\SetUp_MoiTruong" />
       <recent name="E:\Project\Automation\SetUp_MoiTruong\browserDrivers" />
       <recent name="E:\Project\Automation\SetUp_MoiTruong\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="commons" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.Topic_00_Format">
@@ -109,7 +112,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_00_Format (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_00_Format (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SetUp_MoiTruong" />
       <extension name="coverage">
         <pattern>
@@ -164,10 +167,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.Topic_00_Format" />
+        <item itemvalue="TestNG.Topic_00_Format (2)" />
         <item itemvalue="TestNG.Topic_00_Format (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="TestNG.Topic_00_Format.Testcase_01" />
-        <item itemvalue="TestNG.Topic_00_Format (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +200,8 @@
       <workItem from="1721112446283" duration="2000" />
       <workItem from="1721112599550" duration="1682000" />
       <workItem from="1726039657200" duration="3319000" />
-      <workItem from="1726214784400" duration="1009000" />
+      <workItem from="1726214784400" duration="1047000" />
+      <workItem from="1726217352972" duration="737000" />
     </task>
     <servers />
   </component>
