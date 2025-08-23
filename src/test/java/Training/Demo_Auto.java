@@ -56,5 +56,6 @@ public class Demo_Auto extends BaseTest {
 
 //            name.add(nameColumn.get(i).getText());
 //            System.out.println("Name:" + name);
+
     }
 }
